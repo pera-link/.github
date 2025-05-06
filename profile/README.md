@@ -1,6 +1,5 @@
 # Peralink - University Social Platform
-
-![Peralink Logo](https://via.placeholder.com/150x50?text=Peralink) <!-- Replace with actual logo if available -->
+![peralink logo](https://github.com/user-attachments/assets/c6b2bebc-378a-4740-bead-395a8bddca65?text=Peralink)
 
 ## Overview
 
