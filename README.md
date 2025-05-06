@@ -48,7 +48,7 @@ Peralink is a versatile social media platform designed specifically for universi
 ## Philosophy
 > "Happy life and Happy coding :)"
 
-The Peralink project reflects Hackers' Club's commitment to creating practical solutions while providing valuable development experience for student contributors.
+The Peralink project reflects student commitment to creating practical solutions while providing valuable development experience for student contributors.
 
 ---
 
