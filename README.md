@@ -25,7 +25,7 @@ Peralink is a versatile social media platform designed specifically for universi
 ### Core Contributors
 - Uthsara Wickramaarachchi
 - Akash Withanaarachchi
-- Kavishka Rambukwalle
+- Kavishka Rambukwella
 - Kaveen Lakshitha
 - Kavindu Bambaragama
 - Pasindu Ranage
